@@ -1,0 +1,13 @@
+20231228	18:12:57	70f53dfb-d63f-4d72-ac6b-13635fd98e42	TypeError: req.status is not a function	GET	/auth	undefined
+20231228	18:13:21	80484790-c335-42ef-9d1b-213a965d6c11	TypeError: req.status is not a function	GET	/auth	undefined
+20231228	18:14:32	4388e403-5ed0-4c72-bac1-62bf713e19ef	Error: ENOENT: no such file or directory, stat '/home/actrox/Documents/andela/Cipher/views/404.html'	GET	/auth	undefined
+20231228	18:15:17	8aef7fd9-42b9-4088-8194-f1e4327887eb	Error: ENOENT: no such file or directory, stat '/home/actrox/Documents/andela/Cipher/views/404.html'	GET	/auth	undefined
+20231228	18:18:56	182440e1-d5da-4b54-a836-8ec47acc65c3	Error: ENOENT: no such file or directory, stat '/home/actrox/Documents/andela/Cipher/views/404.html'	GET	/auth	undefined
+20231228	18:19:04	050f8a3c-017f-4a76-8dc5-513ff970644e	Error: ENOENT: no such file or directory, stat '/home/actrox/Documents/andela/Cipher/views/404.html'	GET	/auth	undefined
+20231229	10:23:32	b5b1bbd6-6e37-4cb1-8163-453b8a2967a9	Error: secretOrPrivateKey must have a value	POST	/auth	undefined
+20231229	10:25:29	f769f2a6-4998-4468-901e-0a7e5b6f5582	Error: secretOrPrivateKey must have a value	POST	/auth	undefined
+20231229	10:27:08	6d97dd2d-39c5-4cfa-a39a-26e978239f65	Error: secretOrPrivateKey must have a value	POST	/auth	undefined
+20231229	10:30:31	e80641b4-85ef-45ea-8014-eb2017c50e70	Error: secretOrPrivateKey must have a value	POST	/auth	undefined
+20231229	10:30:51	3f72759a-3832-4524-8b2d-58799e383099	Error: secretOrPrivateKey must have a value	POST	/auth	undefined
+20231229	10:31:06	60b0f067-f568-4623-b8be-65d222d4940f	Error: secretOrPrivateKey must have a value	POST	/auth	undefined
+20231229	10:57:08	e79a159c-1023-4a70-8adb-7ec11a6e541c	TypeError: authHeader?.startWith is not a function	GET	/notes	undefined
